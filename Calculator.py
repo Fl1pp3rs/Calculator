@@ -1,5 +1,4 @@
 from tkinter import *
-# from tkinter.ttk import *
 from PIL import Image, ImageTk
 
 path = "C:\\Users\\Finn\\Desktop\\Code shit\\FinnIRL.jpg"
